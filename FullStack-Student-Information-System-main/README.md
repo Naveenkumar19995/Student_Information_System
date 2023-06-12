@@ -1,14 +1,14 @@
-# project-documentation
+# Project-Documentation
 
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://sde.ok.gov/sites/ok.gov.sde/files/studinfosyslogo1.gif" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Fullstack Student Information System</h3>
+<h3 align="center">Student Information System</h3>
 
 <div align="center">
- Visit at:https://paulselvi2022.github.io/FullStack-Student-Information-System/
+ Visit at:https://github.com/Naveenkumar19995/Student_Information_System.git
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
@@ -203,24 +203,17 @@ The outputs at the frontend,database and backend parts are attached below.
 
 ### Break down into end to end tests
 Front end:
-![reactoutput1](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/683ae948-80bf-454e-ae93-d985599f09a4)
-![reactoutput2](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/ac6c9085-c2cc-4595-9540-ae0c52a1f33f)
-
-Backend:
-![backendoutput](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/f703fe7f-0373-4ce7-a6e0-b61a0e59cd34)
-
-
-Database:
-![getstudentdetails](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/c0c6e27b-6de8-479a-a01d-a4ad9ff59224)
-![addstudentdetails](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/3d13fee8-f9a4-40a8-8c3d-0d06e215cb4c)
+![reactoutput1](https://github.com/Naveenkumar19995/Student_Information_System/assets/121006768/f774353d-f246-4034-8c86-a1ba0d1b03f4)
 
 ### And coding style tests
 During debugging,the output is shown below,
-![coderun](https://github.com/paulselvi2022/FullStack-Student-Information-System/assets/120387943/ee010bda-54e9-4c41-b2eb-54481d572074)
+![coderun]
 
+![Screenshot (56)](https://github.com/Naveenkumar19995/Student_Information_System/assets/121006768/0c19165a-cef0-4b3b-ab07-f5bcf4fd15c8)
 
 ## 🎈 Usage <a name="usage"></a>
-This project is used to create Full stack student information system using Spring Boot and React. In this project, we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. 
+This project is used to create Full stack student information system
+stem using Spring Boot and React. In this project, we will use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API) with and use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components. 
 
 ## 🚀 Deployment <a name = "deployment"></a>
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
@@ -239,3 +232,4 @@ See also the list of [contributors](https://github.com/skill-lync-cs/project-doc
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Skill-Lync
+- Bheemesh
